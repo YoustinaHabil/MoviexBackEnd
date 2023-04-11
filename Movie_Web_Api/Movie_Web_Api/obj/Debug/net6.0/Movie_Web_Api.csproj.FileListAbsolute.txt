@@ -1,0 +1,595 @@
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.Development.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.exe
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.deps.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.runtimeconfig.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.pdb
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Core.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Identity.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Humanizer.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.CodeDom.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Memory.Data.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Json.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.AssemblyReference.cache
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfoInputs.cache
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfo.cs
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CoreCompileInputs.cache
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cs
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.build.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.development.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\scopedcss\bundle\Movie_Web_Api.styles.css
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CopyComplete
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\refint\Movie_Web_Api.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.pdb
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.genruntimeconfig.cache
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\ref\Movie_Web_Api.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.staticwebassets.runtime.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\libman.json
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.dll
+F:\ITI\Web_Api_Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.Development.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\libman.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.staticwebassets.runtime.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.exe
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.deps.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.runtimeconfig.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.pdb
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Core.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Humanizer.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.CodeDom.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.AssemblyReference.cache
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfoInputs.cache
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfo.cs
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CoreCompileInputs.cache
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.Movie_Web_Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Movie_Web_Api.props
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movie_Web_Api.props
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movie_Web_Api.props
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\scopedcss\bundle\Movie_Web_Api.styles.css
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CopyComplete
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\refint\Movie_Web_Api.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.pdb
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.genruntimeconfig.cache
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\ref\Movie_Web_Api.dll
+D:\ITI .NET\Final Project\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\libman.json
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.json
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.staticwebassets.runtime.json
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.exe
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.deps.json
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.runtimeconfig.json
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.pdb
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.AssemblyReference.cache
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfoInputs.cache
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfo.cs
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CoreCompileInputs.cache
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\scopedcss\bundle\Movie_Web_Api.styles.css
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CopyComplete
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\refint\Movie_Web_Api.dll
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.pdb
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.genruntimeconfig.cache
+C:\Users\tadro\Desktop\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\ref\Movie_Web_Api.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.Development.json
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\libman.json
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.json
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.staticwebassets.runtime.json
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.exe
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.deps.json
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.runtimeconfig.json
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.pdb
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Core.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Humanizer.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.CodeDom.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.AssemblyReference.cache
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfoInputs.cache
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfo.cs
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CoreCompileInputs.cache
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cs
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cache
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.Movie_Web_Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Movie_Web_Api.props
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movie_Web_Api.props
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movie_Web_Api.props
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\scopedcss\bundle\Movie_Web_Api.styles.css
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CopyComplete
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\refint\Movie_Web_Api.dll
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.pdb
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.genruntimeconfig.cache
+D:\iTi\Courses\Graduation Project\First\Last version backend Api\Movie_Web_Api (3)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\ref\Movie_Web_Api.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\libman.json
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.staticwebassets.runtime.json
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.exe
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.deps.json
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.runtimeconfig.json
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.pdb
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.AssemblyReference.cache
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfoInputs.cache
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfo.cs
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CoreCompileInputs.cache
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.Movie_Web_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Movie_Web_Api.props
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movie_Web_Api.props
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movie_Web_Api.props
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\scopedcss\bundle\Movie_Web_Api.styles.css
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CopyComplete
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\refint\Movie_Web_Api.dll
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.pdb
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.genruntimeconfig.cache
+C:\Users\Youssef\Desktop\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\ref\Movie_Web_Api.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.Development.json
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\appsettings.json
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\libman.json
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.staticwebassets.runtime.json
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.exe
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.deps.json
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.runtimeconfig.json
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Movie_Web_Api.pdb
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Core.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Humanizer.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.CodeDom.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.AssemblyReference.cache
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfoInputs.cache
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.AssemblyInfo.cs
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CoreCompileInputs.cache
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.Movie_Web_Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Movie_Web_Api.props
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movie_Web_Api.props
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movie_Web_Api.props
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\scopedcss\bundle\Movie_Web_Api.styles.css
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.csproj.CopyComplete
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\refint\Movie_Web_Api.dll
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.pdb
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\Movie_Web_Api.genruntimeconfig.cache
+D:\ITI\Graduation (Back,Front)\Graduation (Back,Front)\Movie_Web_Api\Movie_Web_Api\obj\Debug\net6.0\ref\Movie_Web_Api.dll

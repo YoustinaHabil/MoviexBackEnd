@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "XlODkWAHgGsvWkTFG4/y1+i0NCy3p5eVNE4lIRrmeOk=",
+  "Source": "Movie_Web_Api",
+  "BasePath": "_content/Movie_Web_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Movie_Web_Api\\wwwroot",
+      "Source": "Movie_Web_Api",
+      "ContentRoot": "D:\\ITI\\Graduation (Back,Front)\\Graduation (Back,Front)\\Movie_Web_Api\\Movie_Web_Api\\wwwroot\\",
+      "BasePath": "_content/Movie_Web_Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ITI\\Graduation (Back,Front)\\Graduation (Back,Front)\\Movie_Web_Api\\Movie_Web_Api\\wwwroot\\Images\\pexels-aleksandar-pasaric-2603464.jpg",
+      "SourceId": "Movie_Web_Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITI\\Graduation (Back,Front)\\Graduation (Back,Front)\\Movie_Web_Api\\Movie_Web_Api\\wwwroot\\",
+      "BasePath": "_content/Movie_Web_Api",
+      "RelativePath": "Images/pexels-aleksandar-pasaric-2603464.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\pexels-aleksandar-pasaric-2603464.jpg"
+    }
+  ]
+}
